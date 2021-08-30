@@ -1,0 +1,16 @@
+﻿{
+  "Id": "L-YpxvOMFUOSO3TKu3s5Fg",
+  "Reference": "h26p2SjtkUuE8MYouN-dcg/L-YpxvOMFUOSO3TKu3s5Fg",
+  "ParentRef": "h26p2SjtkUuE8MYouN-dcg/VHRRDvxvs0KhW1bOtKS45w",
+  "Name": "MenuFile",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-08-30T01:51:58.1223584Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-08-30T01:53:45.3988472Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

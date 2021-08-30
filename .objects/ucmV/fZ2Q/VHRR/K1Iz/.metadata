@@ -1,0 +1,16 @@
+﻿{
+  "Id": "K1IztmKtwkWuGIaDMTQqpA",
+  "Reference": "h26p2SjtkUuE8MYouN-dcg/K1IztmKtwkWuGIaDMTQqpA",
+  "ParentRef": "h26p2SjtkUuE8MYouN-dcg/VHRRDvxvs0KhW1bOtKS45w",
+  "Name": "MenuExit",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-08-30T03:52:45.2107449Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-08-30T03:55:14.8169307Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
